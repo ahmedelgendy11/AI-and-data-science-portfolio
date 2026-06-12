@@ -1,0 +1,27 @@
+# بيئة conda معزولة لتشغيل المشاريع محلياً (مطابِقة لـ dsportfolio)
+# الإنشاء:  conda env create -f environment.yml
+# التفعيل:  conda activate dsportfolio
+name: dsportfolio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - scikit-learn
+      - scipy
+      - matplotlib
+      - seaborn
+      - xgboost
+      - statsmodels
+      - mlflow
+      - shap
+      - plotly
+      - streamlit
+      - anthropic
+      - sentence-transformers
+      - jupyter
+      - ipykernel
+      - nbconvert

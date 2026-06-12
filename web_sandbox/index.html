@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Data Analysis Sandbox — Interactive Python Lab</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- CodeMirror 5 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/edit/matchbrackets.min.js" />
+
+  <!-- App Styles -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>" />
+</head>
+<body>
+  <!-- ════════════════════════════════════════════════════════════
+       Animated Background Mesh
+       ════════════════════════════════════════════════════════════ -->
+  <div class="bg-mesh"></div>
+
+  <!-- ════════════════════════════════════════════════════════════
+       Loading Screen
+       ════════════════════════════════════════════════════════════ -->
+  <div class="loading-screen" id="loading-screen">
+    <div class="loading-logo">Data Analysis Sandbox</div>
+    <div class="loading-spinner"></div>
+    <div class="loading-status">
+      <div class="step" data-step="0">
+        <span class="step-icon">○</span>
+        <span>Initializing Python runtime (Pyodide)…</span>
+      </div>
+      <div class="step" data-step="1">
+        <span class="step-icon">○</span>
+        <span>Installing packages (pandas, numpy, matplotlib, sklearn)…</span>
+      </div>
+      <div class="step" data-step="2">
+        <span class="step-icon">○</span>
+        <span>Loading datasets into virtual filesystem…</span>
+      </div>
+      <div class="step" data-step="3">
+        <span class="step-icon">○</span>
+        <span>Configuring environment…</span>
+      </div>
+    </div>
+    <div class="loading-progress">
+      <div class="loading-progress-bar" id="loading-progress-bar"></div>
+    </div>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════════════
+       Main Application
+       ════════════════════════════════════════════════════════════ -->
+  <div class="app-container" id="app-container">
+    <!-- ── Top Bar ─────────────────────────────────────────── -->
+    <header class="top-bar">
+      <div class="brand">
+        <div class="brand-icon">🔬</div>
+        <div class="brand-text">Data Analysis Sandbox</div>
+      </div>
+      <div class="pyodide-status">
+        <span class="status-dot loading" id="status-dot"></span>
+        <span id="status-text">Loading Python…</span>
+      </div>
+    </header>
+
+    <!-- ── Project Tabs ────────────────────────────────────── -->
+    <nav class="project-tabs">
+      <button class="project-tab active" data-project="ecommerce">
+        <span class="tab-icon">🛒</span>
+        <span>E-Commerce Analysis</span>
+      </button>
+      <button class="project-tab" data-project="health">
+        <span class="tab-icon">🏥</span>
+        <span>Health Risk &amp; ML</span>
+      </button>
+      <button class="project-tab" data-project="stock">
+        <span class="tab-icon">📈</span>
+        <span>Stock Market Analysis</span>
+      </button>
+      <button class="project-tab" data-project="math">
+        <span class="tab-icon">🧮</span>
+        <span>Math &amp; Stats</span>
+      </button>
+      <button class="project-tab" data-project="clustering">
+        <span class="tab-icon">👥</span>
+        <span>Segmentation</span>
+      </button>
+      <button class="project-tab" data-project="regression">
+        <span class="tab-icon">🏠</span>
+        <span>Regression</span>
+      </button>
+      <button class="project-tab" data-project="nlp">
+        <span class="tab-icon">💬</span>
+        <span>NLP Review</span>
+      </button>
+      <button class="project-tab" data-project="timeseries">
+        <span class="tab-icon">⚡</span>
+        <span>Time Series</span>
+      </button>
+      <button class="project-tab" data-project="sql">
+        <span class="tab-icon">🗄️</span>
+        <span>SQL Mastery</span>
+      </button>
+      <button class="project-tab" data-project="genai">
+        <span class="tab-icon">🤖</span>
+        <span>GenAI &amp; RAG</span>
+      </button>
+    </nav>
+
+    <!-- ── Main Content ────────────────────────────────────── -->
+    <div class="main-content">
+      <!-- ── Sidebar ──────────────────────────────────────── -->
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <div class="sidebar-title">Challenges</div>
+          <div class="sidebar-project-name" id="sidebar-project-name">🛒 E-Commerce Analysis</div>
+        </div>
+        <div class="challenges-list" id="challenges-list">
+          <!-- Populated by JS -->
+        </div>
+      </aside>
+
+      <!-- ── Workspace ────────────────────────────────────── -->
+      <div class="workspace">
+        <!-- Challenge Info Bar -->
+        <div class="challenge-info-bar" id="challenge-info-bar" style="display:none;">
+          <div class="challenge-info-content">
+            <div class="challenge-info-title" id="challenge-title"></div>
+            <div class="challenge-info-desc" id="challenge-desc"></div>
+          </div>
+          <button class="hint-btn" id="hint-btn">
+            <span>💡</span>
+            <span>Hint</span>
+          </button>
+        </div>
+
+        <!-- Hint Popup -->
+        <div class="hint-popup" id="hint-popup"></div>
+
+        <!-- Welcome State (shown when no challenge is selected) -->
+        <div class="welcome-state" id="welcome-state">
+          <div class="welcome-icon">🧪</div>
+          <div class="welcome-title">Welcome to the Sandbox</div>
+          <div class="welcome-subtitle">
+            Select a project tab above, then choose a challenge from the sidebar to begin your data analysis journey.
+            <br /><br />
+            Press <kbd style="background:rgba(255,255,255,0.1);padding:2px 8px;border-radius:4px;font-size:0.8rem;">Ctrl + Enter</kbd> to run code.
+          </div>
+        </div>
+
+        <!-- Editor + Output Split -->
+        <div class="editor-output-split">
+          <!-- Editor Panel -->
+          <div class="editor-panel" id="editor-panel" style="display:none;">
+            <div class="panel-header">
+              <div class="panel-label">
+                <span class="panel-label-dot editor"></span>
+                <span>Python Editor</span>
+              </div>
+              <div class="panel-actions">
+                <button class="btn btn-run" id="btn-run" disabled>
+                  <span class="btn-icon">▶</span>
+                  <span>Run Code</span>
+                </button>
+                <button class="btn btn-check" id="btn-check">
+                  <span class="btn-icon">✓</span>
+                  <span>Check Answer</span>
+                </button>
+              </div>
+            </div>
+            <div class="editor-wrapper" id="editor-wrapper"></div>
+          </div>
+
+          <!-- Output Panel -->
+          <div class="output-panel">
+            <div class="panel-header">
+              <div class="panel-label">
+                <span class="panel-label-dot output"></span>
+                <span>Output</span>
+              </div>
+              <div class="panel-actions">
+                <button class="btn btn-clear" id="btn-clear">
+                  <span class="btn-icon">🗑</span>
+                  <span>Clear</span>
+                </button>
+              </div>
+            </div>
+            <div class="output-content" id="output-content">
+              <div class="output-placeholder">
+                <div class="output-placeholder-icon">⚡</div>
+                <div class="output-placeholder-text">Run your code to see results here</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Toast Container ──────────────────────────────────── -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <!-- ════════════════════════════════════════════════════════════
+       Scripts
+       ════════════════════════════════════════════════════════════ -->
+  <!-- Pyodide -->
+  <script src="https://cdn.jsdelivr.net/pyodide/v0.24.1/full/pyodide.js"></script>
+
+  <!-- CodeMirror 5 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/python/python.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/edit/matchbrackets.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/edit/closebrackets.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/selection/active-line.min.js"></script>
+
+  <!-- Challenges Data -->
+  <script src="challenges.js"></script>
+
+  <!-- App Logic -->
+  <script src="app.js"></script>
+</body>
+</html>

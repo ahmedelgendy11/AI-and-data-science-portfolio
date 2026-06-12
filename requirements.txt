@@ -1,0 +1,33 @@
+# متطلّبات منهج/بورتفوليو Data Science & ML
+# التثبيت:  pip install -r requirements.txt
+
+# --- الأساس (Core) ---
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# --- نمذجة وإحصاء ---
+xgboost
+statsmodels
+
+# --- MLOps / تتبّع التجارب ---
+mlflow
+
+# --- التفسير (Interpretability) ---
+shap
+
+# --- لوحات تفاعلية (A1) ---
+plotly
+streamlit
+
+# --- GenAI (اختياري — D1/D2/D3) ---
+anthropic
+sentence-transformers
+
+# --- بيئة النوتبوكات ---
+jupyter
+ipykernel
+nbconvert

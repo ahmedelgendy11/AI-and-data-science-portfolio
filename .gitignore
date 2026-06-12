@@ -1,0 +1,28 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ===== MLflow runtime artifacts (تتولّد عند تشغيل C1 — متُعاد توليدها) =====
+mlruns/
+mlartifacts/
+mlflow.db
+
+# ===== العمل المؤقّت =====
+scratch/
+
+# ===== بيئات افتراضية =====
+.venv/
+venv/
+env/
+
+# ===== نظام التشغيل / المحرّر =====
+.DS_Store
+Thumbs.db
+*.log
+
+# ملاحظة: ملفات الداتا (data/*.csv, datasets/*) متضمَّنة عمداً عشان النوتبوكات تشتغل سحابياً.
+
+# Claude Code محلي
+.claude/settings.local.json

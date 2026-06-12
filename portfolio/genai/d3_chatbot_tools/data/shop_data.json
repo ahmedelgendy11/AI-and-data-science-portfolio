@@ -1,0 +1,23 @@
+{
+  "store": {
+    "name": "TechNest",
+    "hours": "9:00 صباحاً – 10:00 مساءً، طوال أيام الأسبوع",
+    "support_email": "support@technest.example",
+    "free_shipping_threshold": 500,
+    "currency": "USD"
+  },
+  "products": [
+    {"name": "Laptop",  "price": 1200.00, "stock": 14},
+    {"name": "Monitor", "price": 320.00,  "stock": 40},
+    {"name": "Keyboard","price": 75.00,   "stock": 120},
+    {"name": "Mouse",   "price": 45.00,   "stock": 200},
+    {"name": "Headset", "price": 95.00,   "stock": 0},
+    {"name": "Webcam",  "price": 65.00,   "stock": 33}
+  ],
+  "orders": {
+    "ORD1001": {"status": "shipped",    "items": ["Laptop", "Mouse"],   "total": 1245.00, "eta_days": 2},
+    "ORD1002": {"status": "processing", "items": ["Monitor"],            "total": 320.00,  "eta_days": 5},
+    "ORD1003": {"status": "delivered",  "items": ["Keyboard", "Webcam"], "total": 140.00,  "eta_days": 0},
+    "ORD1004": {"status": "cancelled",  "items": ["Headset"],            "total": 95.00,   "eta_days": null}
+  }
+}

@@ -1,0 +1,2001 @@
+review_id,product_name,review_text,rating,sentiment
+REV10000,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10001,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10002,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10003,Laptop X1,Worst customer service ever. Product does not work.,1,negative
+REV10004,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10005,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10006,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10007,Smart Watch Y,Worst customer service ever. Product does not work.,1,negative
+REV10008,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10009,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV10010,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10011,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10012,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10013,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10014,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10015,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10016,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10017,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10018,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV10019,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10020,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV10021,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10022,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10023,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10024,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10025,Smart Watch Y,Average. It is functional but features are quite basic.,3,neutral
+REV10026,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10027,Laptop X1,Worst customer service ever. Product does not work.,2,negative
+REV10028,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10029,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10030,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10031,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV10032,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10033,Ergonomic Chair Z,Worst customer service ever. Product does not work.,2,negative
+REV10034,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV10035,Ergonomic Chair Z,Worst customer service ever. Product does not work.,1,negative
+REV10036,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10037,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10038,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV10039,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10040,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10041,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV10042,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10043,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10044,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10045,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10046,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10047,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10048,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10049,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10050,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10051,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10052,Ultra Blender 3000,Average product. Not bad but not great either.,3,neutral
+REV10053,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10054,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10055,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10056,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10057,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10058,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10059,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,2,negative
+REV10060,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10061,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10062,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10063,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10064,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10065,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10066,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10067,Smart Watch Y,Average product. Not bad but not great either.,3,neutral
+REV10068,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10069,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10070,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10071,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV10072,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10073,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10074,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10075,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10076,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10077,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10078,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10079,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10080,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10081,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10082,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10083,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10084,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV10085,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10086,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10087,Smart Watch Y,Average product. Not bad but not great either.,3,neutral
+REV10088,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10089,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10090,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10091,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10092,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10093,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10094,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10095,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10096,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10097,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10098,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10099,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10100,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10101,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10102,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10103,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10104,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10105,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV10106,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10107,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV10108,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10109,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10110,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10111,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10112,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10113,Ergonomic Chair Z,Do not waste your money on this. Waste of time.,2,negative
+REV10114,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10115,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10116,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10117,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10118,Ergonomic Chair Z,Fair product for the price. Not complaining.,3,neutral
+REV10119,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10120,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10121,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10122,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10123,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10124,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10125,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10126,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10127,Ultra Blender 3000,Average product. Not bad but not great either.,3,neutral
+REV10128,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10129,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10130,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10131,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV10132,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10133,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10134,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10135,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV10136,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10137,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10138,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10139,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10140,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10141,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10142,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10143,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV10144,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10145,Ultra Blender 3000,Average product. Not bad but not great either.,3,neutral
+REV10146,Ultra Blender 3000,Fair product for the price. Not complaining.,3,neutral
+REV10147,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10148,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10149,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10150,Ultra Blender 3000,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10151,Noise Cancel Headphones,Worst customer service ever. Product does not work.,2,negative
+REV10152,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10153,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10154,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10155,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10156,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10157,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10158,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10159,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10160,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10161,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10162,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10163,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10164,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10165,Ultra Blender 3000,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10166,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10167,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10168,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10169,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10170,Noise Cancel Headphones,Worst customer service ever. Product does not work.,2,negative
+REV10171,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10172,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10173,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10174,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV10175,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10176,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10177,Ultra Blender 3000,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10178,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10179,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10180,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10181,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10182,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV10183,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10184,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10185,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10186,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10187,Smart Watch Y,Do not waste your money on this. Waste of time.,1,negative
+REV10188,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10189,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10190,Laptop X1,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10191,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10192,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10193,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10194,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10195,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10196,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10197,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10198,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10199,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10200,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10201,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10202,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10203,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10204,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10205,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10206,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10207,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10208,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV10209,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10210,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10211,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10212,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10213,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10214,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10215,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10216,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10217,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10218,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10219,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10220,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV10221,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10222,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10223,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10224,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10225,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10226,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10227,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10228,Smart Watch Y,Worst customer service ever. Product does not work.,1,negative
+REV10229,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10230,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV10231,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10232,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10233,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10234,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10235,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10236,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10237,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10238,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10239,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10240,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10241,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10242,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10243,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10244,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10245,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10246,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",2,negative
+REV10247,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10248,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10249,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10250,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10251,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10252,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10253,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10254,Smart Watch Y,"Terrible quality, broke after two days of normal use.",2,negative
+REV10255,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10256,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10257,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10258,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10259,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10260,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10261,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10262,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10263,Ultra Blender 3000,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10264,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10265,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10266,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10267,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10268,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10269,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10270,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10271,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10272,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10273,Ultra Blender 3000,"Terrible quality, broke after two days of normal use.",2,negative
+REV10274,Ergonomic Chair Z,Fair product for the price. Not complaining.,3,neutral
+REV10275,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10276,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10277,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10278,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10279,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10280,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10281,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10282,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10283,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10284,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10285,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10286,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10287,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10288,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10289,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10290,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10291,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10292,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10293,Laptop X1,Worst customer service ever. Product does not work.,2,negative
+REV10294,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10295,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10296,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10297,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10298,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10299,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10300,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10301,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV10302,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10303,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10304,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10305,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV10306,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10307,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10308,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10309,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10310,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10311,Noise Cancel Headphones,Average product. Not bad but not great either.,3,neutral
+REV10312,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10313,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10314,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10315,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10316,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10317,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10318,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10319,Laptop X1,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10320,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV10321,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10322,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10323,Noise Cancel Headphones,Average. It is functional but features are quite basic.,3,neutral
+REV10324,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10325,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10326,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV10327,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10328,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10329,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10330,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10331,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10332,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10333,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10334,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10335,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10336,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10337,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10338,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10339,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10340,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10341,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10342,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV10343,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10344,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10345,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10346,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10347,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10348,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10349,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10350,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10351,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10352,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10353,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10354,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10355,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV10356,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10357,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10358,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10359,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10360,Laptop X1,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10361,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10362,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10363,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV10364,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10365,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10366,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10367,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10368,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10369,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10370,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10371,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10372,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10373,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10374,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10375,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10376,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10377,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10378,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10379,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10380,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10381,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10382,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10383,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10384,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10385,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10386,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10387,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10388,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10389,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10390,Ultra Blender 3000,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10391,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10392,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10393,Ultra Blender 3000,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10394,Noise Cancel Headphones,"Decent quality, but shipping took way too long.",3,neutral
+REV10395,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10396,Noise Cancel Headphones,Average. It is functional but features are quite basic.,3,neutral
+REV10397,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10398,Noise Cancel Headphones,Worst customer service ever. Product does not work.,2,negative
+REV10399,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10400,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10401,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10402,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10403,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10404,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10405,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV10406,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10407,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10408,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10409,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10410,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10411,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10412,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10413,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10414,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10415,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10416,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10417,Laptop X1,Worst customer service ever. Product does not work.,2,negative
+REV10418,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10419,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10420,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10421,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10422,Laptop X1,Average product. Not bad but not great either.,3,neutral
+REV10423,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10424,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10425,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10426,Ultra Blender 3000,Worst customer service ever. Product does not work.,2,negative
+REV10427,Smart Watch Y,Average. It is functional but features are quite basic.,3,neutral
+REV10428,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10429,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10430,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10431,Ultra Blender 3000,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10432,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10433,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10434,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10435,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10436,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10437,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10438,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10439,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10440,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10441,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10442,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10443,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10444,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10445,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10446,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10447,Laptop X1,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10448,Noise Cancel Headphones,"Decent quality, but shipping took way too long.",3,neutral
+REV10449,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10450,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10451,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10452,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10453,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10454,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10455,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10456,Smart Watch Y,Worst customer service ever. Product does not work.,2,negative
+REV10457,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10458,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10459,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10460,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10461,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10462,Smart Watch Y,"It is okay, nothing special but does the job.",3,neutral
+REV10463,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10464,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10465,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10466,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10467,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10468,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10469,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10470,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10471,Ultra Blender 3000,Worst customer service ever. Product does not work.,2,negative
+REV10472,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10473,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10474,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10475,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10476,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10477,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV10478,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10479,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10480,Ergonomic Chair Z,Worst customer service ever. Product does not work.,2,negative
+REV10481,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10482,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10483,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10484,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10485,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10486,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10487,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10488,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10489,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10490,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10491,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10492,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV10493,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10494,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10495,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10496,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10497,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10498,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10499,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV10500,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10501,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10502,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10503,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10504,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV10505,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10506,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10507,Laptop X1,"Terrible quality, broke after two days of normal use.",1,negative
+REV10508,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10509,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10510,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10511,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10512,Noise Cancel Headphones,"Decent quality, but shipping took way too long.",3,neutral
+REV10513,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10514,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10515,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10516,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10517,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10518,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10519,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10520,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10521,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10522,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10523,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10524,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10525,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10526,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10527,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10528,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV10529,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10530,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10531,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",2,negative
+REV10532,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10533,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10534,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10535,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10536,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10537,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10538,Noise Cancel Headphones,Average. It is functional but features are quite basic.,3,neutral
+REV10539,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10540,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10541,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10542,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10543,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10544,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10545,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10546,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10547,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10548,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10549,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10550,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV10551,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10552,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV10553,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10554,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10555,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10556,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10557,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10558,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10559,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10560,Smart Watch Y,Average product. Not bad but not great either.,3,neutral
+REV10561,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10562,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10563,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10564,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10565,Ultra Blender 3000,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10566,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10567,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV10568,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10569,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV10570,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10571,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10572,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10573,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10574,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10575,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10576,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV10577,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10578,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10579,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10580,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10581,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10582,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10583,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10584,Ultra Blender 3000,Worst customer service ever. Product does not work.,1,negative
+REV10585,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10586,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",2,negative
+REV10587,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10588,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10589,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10590,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10591,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10592,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV10593,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV10594,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10595,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10596,Smart Watch Y,"It is okay, nothing special but does the job.",3,neutral
+REV10597,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10598,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10599,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10600,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10601,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10602,Smart Watch Y,"It is okay, nothing special but does the job.",3,neutral
+REV10603,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10604,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10605,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10606,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10607,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10608,Noise Cancel Headphones,Worst customer service ever. Product does not work.,1,negative
+REV10609,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10610,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10611,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10612,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10613,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10614,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10615,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10616,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10617,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10618,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10619,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10620,Ultra Blender 3000,Worst customer service ever. Product does not work.,1,negative
+REV10621,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10622,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10623,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV10624,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10625,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10626,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10627,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10628,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10629,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10630,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10631,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10632,Ergonomic Chair Z,"Terrible quality, broke after two days of normal use.",1,negative
+REV10633,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10634,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10635,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10636,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10637,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10638,Smart Watch Y,Average product. Not bad but not great either.,3,neutral
+REV10639,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10640,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10641,Ultra Blender 3000,"Terrible quality, broke after two days of normal use.",2,negative
+REV10642,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10643,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10644,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10645,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10646,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10647,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10648,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10649,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10650,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10651,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10652,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10653,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10654,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10655,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10656,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10657,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10658,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10659,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10660,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10661,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10662,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10663,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV10664,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10665,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV10666,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10667,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10668,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10669,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV10670,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10671,Smart Watch Y,"Terrible quality, broke after two days of normal use.",2,negative
+REV10672,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10673,Smart Watch Y,"It is okay, nothing special but does the job.",3,neutral
+REV10674,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10675,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10676,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10677,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10678,Ergonomic Chair Z,"Decent quality, but shipping took way too long.",3,neutral
+REV10679,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10680,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV10681,Ultra Blender 3000,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10682,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10683,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10684,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10685,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10686,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10687,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10688,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10689,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10690,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10691,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10692,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10693,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10694,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10695,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10696,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV10697,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10698,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10699,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10700,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10701,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10702,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10703,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10704,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10705,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10706,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10707,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10708,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10709,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV10710,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV10711,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10712,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10713,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10714,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10715,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10716,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10717,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10718,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10719,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10720,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10721,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10722,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10723,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10724,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10725,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10726,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10727,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10728,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10729,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10730,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10731,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10732,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10733,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10734,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10735,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV10736,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10737,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10738,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10739,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10740,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10741,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10742,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV10743,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10744,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10745,Laptop X1,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10746,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10747,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV10748,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10749,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10750,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV10751,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10752,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10753,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10754,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10755,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV10756,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10757,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10758,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10759,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10760,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10761,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10762,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10763,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV10764,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10765,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10766,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10767,Smart Watch Y,Worst customer service ever. Product does not work.,2,negative
+REV10768,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV10769,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10770,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10771,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10772,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10773,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10774,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10775,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10776,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV10777,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10778,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10779,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10780,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10781,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10782,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10783,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10784,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10785,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10786,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10787,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10788,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10789,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10790,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10791,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV10792,Ultra Blender 3000,Fair product for the price. Not complaining.,3,neutral
+REV10793,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10794,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10795,Laptop X1,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV10796,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10797,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10798,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10799,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10800,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10801,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10802,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10803,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10804,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10805,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10806,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV10807,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10808,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10809,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10810,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10811,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV10812,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10813,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10814,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10815,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10816,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10817,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV10818,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10819,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10820,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10821,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10822,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10823,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10824,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10825,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10826,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10827,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10828,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10829,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10830,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10831,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10832,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10833,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10834,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10835,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10836,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10837,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10838,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10839,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10840,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10841,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10842,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10843,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10844,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10845,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10846,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10847,Laptop X1,Do not waste your money on this. Waste of time.,1,negative
+REV10848,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10849,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10850,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10851,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10852,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV10853,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10854,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10855,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10856,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10857,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10858,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10859,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10860,Noise Cancel Headphones,Worst customer service ever. Product does not work.,1,negative
+REV10861,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10862,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10863,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10864,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10865,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10866,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV10867,Laptop X1,Average product. Not bad but not great either.,3,neutral
+REV10868,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10869,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10870,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10871,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10872,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10873,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10874,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10875,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10876,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10877,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10878,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10879,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV10880,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV10881,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10882,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10883,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10884,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10885,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10886,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10887,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10888,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10889,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10890,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10891,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10892,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10893,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10894,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10895,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10896,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10897,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10898,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV10899,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10900,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10901,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10902,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10903,Ultra Blender 3000,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV10904,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10905,Ergonomic Chair Z,Average. It is functional but features are quite basic.,3,neutral
+REV10906,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV10907,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV10908,Laptop X1,Average product. Not bad but not great either.,3,neutral
+REV10909,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10910,Ergonomic Chair Z,Worst customer service ever. Product does not work.,1,negative
+REV10911,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10912,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10913,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV10914,Noise Cancel Headphones,"Decent quality, but shipping took way too long.",3,neutral
+REV10915,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10916,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV10917,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV10918,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10919,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10920,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10921,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10922,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10923,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10924,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10925,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10926,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10927,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10928,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10929,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10930,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10931,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10932,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10933,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10934,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10935,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV10936,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10937,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV10938,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10939,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10940,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10941,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10942,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10943,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10944,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10945,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10946,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10947,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10948,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10949,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV10950,Noise Cancel Headphones,"Decent quality, but shipping took way too long.",3,neutral
+REV10951,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10952,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV10953,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV10954,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10955,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10956,Noise Cancel Headphones,"Decent quality, but shipping took way too long.",3,neutral
+REV10957,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10958,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV10959,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10960,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV10961,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10962,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV10963,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10964,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10965,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV10966,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV10967,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10968,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",1,negative
+REV10969,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10970,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV10971,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10972,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV10973,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV10974,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV10975,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV10976,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10977,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10978,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV10979,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10980,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10981,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV10982,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10983,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10984,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10985,Ultra Blender 3000,Fair product for the price. Not complaining.,3,neutral
+REV10986,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV10987,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV10988,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10989,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10990,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV10991,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV10992,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10993,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV10994,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV10995,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10996,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV10997,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV10998,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV10999,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11000,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11001,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11002,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11003,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11004,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11005,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11006,Ultra Blender 3000,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11007,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11008,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11009,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11010,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11011,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11012,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11013,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV11014,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11015,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11016,Laptop X1,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11017,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11018,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV11019,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11020,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11021,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11022,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11023,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11024,Ergonomic Chair Z,Fair product for the price. Not complaining.,3,neutral
+REV11025,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11026,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11027,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11028,Noise Cancel Headphones,Average product. Not bad but not great either.,3,neutral
+REV11029,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11030,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11031,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11032,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11033,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11034,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11035,Ergonomic Chair Z,"Decent quality, but shipping took way too long.",3,neutral
+REV11036,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11037,Laptop X1,Worst customer service ever. Product does not work.,2,negative
+REV11038,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11039,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11040,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11041,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11042,Smart Watch Y,Average. It is functional but features are quite basic.,3,neutral
+REV11043,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11044,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11045,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11046,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11047,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11048,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11049,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11050,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11051,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV11052,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11053,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11054,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11055,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11056,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11057,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11058,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11059,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11060,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV11061,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV11062,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11063,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11064,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11065,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",2,negative
+REV11066,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV11067,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11068,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11069,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11070,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11071,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11072,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11073,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11074,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11075,Ultra Blender 3000,Average product. Not bad but not great either.,3,neutral
+REV11076,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11077,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11078,Laptop X1,"Terrible quality, broke after two days of normal use.",1,negative
+REV11079,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11080,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11081,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11082,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11083,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11084,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11085,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV11086,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11087,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11088,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11089,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11090,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11091,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11092,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11093,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11094,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11095,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11096,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11097,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11098,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11099,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11100,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11101,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11102,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11103,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV11104,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11105,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11106,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV11107,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11108,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11109,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11110,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11111,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11112,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11113,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11114,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11115,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11116,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV11117,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11118,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11119,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11120,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV11121,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11122,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11123,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11124,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11125,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11126,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11127,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11128,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11129,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11130,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11131,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11132,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11133,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11134,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11135,Ergonomic Chair Z,"Decent quality, but shipping took way too long.",3,neutral
+REV11136,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11137,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11138,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV11139,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11140,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11141,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11142,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11143,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11144,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11145,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11146,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11147,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11148,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11149,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11150,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",1,negative
+REV11151,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11152,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11153,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11154,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11155,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11156,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11157,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11158,Ultra Blender 3000,Worst customer service ever. Product does not work.,1,negative
+REV11159,Ultra Blender 3000,Worst customer service ever. Product does not work.,1,negative
+REV11160,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11161,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11162,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11163,Ergonomic Chair Z,Fair product for the price. Not complaining.,3,neutral
+REV11164,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11165,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11166,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11167,Ultra Blender 3000,Worst customer service ever. Product does not work.,2,negative
+REV11168,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11169,Ultra Blender 3000,Fair product for the price. Not complaining.,3,neutral
+REV11170,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11171,Laptop X1,Average product. Not bad but not great either.,3,neutral
+REV11172,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11173,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11174,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11175,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11176,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11177,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11178,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11179,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11180,Laptop X1,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11181,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11182,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11183,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11184,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV11185,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11186,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11187,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11188,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11189,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11190,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11191,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11192,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11193,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11194,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11195,Ultra Blender 3000,Fair product for the price. Not complaining.,3,neutral
+REV11196,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11197,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11198,Ergonomic Chair Z,"Terrible quality, broke after two days of normal use.",2,negative
+REV11199,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11200,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11201,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11202,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV11203,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11204,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11205,Ultra Blender 3000,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11206,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV11207,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11208,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11209,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11210,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV11211,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV11212,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11213,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11214,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11215,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV11216,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV11217,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV11218,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11219,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11220,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11221,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11222,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11223,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11224,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11225,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11226,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11227,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11228,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11229,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11230,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11231,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11232,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11233,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11234,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11235,Ergonomic Chair Z,Worst customer service ever. Product does not work.,1,negative
+REV11236,Smart Watch Y,Do not waste your money on this. Waste of time.,2,negative
+REV11237,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11238,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11239,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11240,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11241,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11242,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11243,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11244,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11245,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV11246,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11247,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11248,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11249,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11250,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11251,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11252,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11253,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11254,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11255,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11256,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11257,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11258,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11259,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV11260,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11261,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11262,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11263,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11264,Smart Watch Y,Average product. Not bad but not great either.,3,neutral
+REV11265,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11266,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11267,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11268,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11269,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11270,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11271,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11272,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11273,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11274,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11275,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11276,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11277,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11278,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11279,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11280,Laptop X1,Worst customer service ever. Product does not work.,2,negative
+REV11281,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11282,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11283,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11284,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11285,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11286,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11287,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11288,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11289,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11290,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11291,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11292,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11293,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11294,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11295,Smart Watch Y,"Terrible quality, broke after two days of normal use.",2,negative
+REV11296,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11297,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11298,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11299,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11300,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11301,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11302,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11303,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11304,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11305,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11306,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11307,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11308,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11309,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11310,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11311,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11312,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11313,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11314,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11315,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11316,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11317,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11318,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11319,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11320,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11321,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11322,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV11323,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11324,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11325,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11326,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11327,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11328,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11329,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11330,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11331,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11332,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11333,Smart Watch Y,Worst customer service ever. Product does not work.,2,negative
+REV11334,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11335,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11336,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11337,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11338,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11339,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11340,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11341,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11342,Smart Watch Y,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11343,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11344,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11345,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11346,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11347,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11348,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11349,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11350,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11351,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11352,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11353,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11354,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11355,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11356,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11357,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11358,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11359,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV11360,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11361,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11362,Noise Cancel Headphones,Worst customer service ever. Product does not work.,1,negative
+REV11363,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11364,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV11365,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11366,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11367,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV11368,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11369,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11370,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11371,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11372,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11373,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11374,Laptop X1,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11375,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11376,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11377,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11378,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11379,Smart Watch Y,Do not waste your money on this. Waste of time.,1,negative
+REV11380,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11381,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11382,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11383,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11384,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11385,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11386,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11387,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV11388,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11389,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11390,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11391,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11392,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11393,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11394,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11395,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11396,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11397,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11398,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11399,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11400,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,2,negative
+REV11401,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11402,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV11403,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11404,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11405,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11406,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11407,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11408,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",1,negative
+REV11409,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11410,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11411,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11412,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11413,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11414,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11415,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11416,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11417,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11418,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11419,Ultra Blender 3000,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11420,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11421,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11422,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11423,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11424,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11425,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11426,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV11427,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11428,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11429,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV11430,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11431,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11432,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11433,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV11434,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11435,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11436,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV11437,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11438,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11439,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11440,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV11441,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11442,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11443,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11444,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11445,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11446,Noise Cancel Headphones,Worst customer service ever. Product does not work.,1,negative
+REV11447,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11448,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11449,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11450,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11451,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11452,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11453,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11454,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11455,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11456,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11457,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11458,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV11459,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11460,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11461,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11462,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11463,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11464,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11465,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11466,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11467,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11468,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11469,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11470,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV11471,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11472,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11473,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11474,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11475,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11476,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11477,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11478,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11479,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11480,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11481,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11482,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11483,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11484,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11485,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11486,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11487,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11488,Ergonomic Chair Z,Worst customer service ever. Product does not work.,2,negative
+REV11489,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11490,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11491,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11492,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV11493,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11494,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11495,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11496,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11497,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11498,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11499,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11500,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11501,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11502,Smart Watch Y,"It is okay, nothing special but does the job.",3,neutral
+REV11503,Ergonomic Chair Z,Average. It is functional but features are quite basic.,3,neutral
+REV11504,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11505,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11506,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11507,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11508,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11509,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11510,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV11511,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11512,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11513,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV11514,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11515,Ergonomic Chair Z,"It is okay, nothing special but does the job.",3,neutral
+REV11516,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11517,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11518,Smart Watch Y,Do not waste your money on this. Waste of time.,1,negative
+REV11519,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11520,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11521,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11522,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV11523,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11524,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11525,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11526,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11527,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11528,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11529,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11530,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11531,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11532,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11533,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11534,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11535,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11536,Laptop X1,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11537,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11538,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11539,Ultra Blender 3000,Fair product for the price. Not complaining.,3,neutral
+REV11540,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11541,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11542,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11543,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11544,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV11545,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11546,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11547,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11548,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11549,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11550,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11551,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11552,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11553,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",1,negative
+REV11554,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11555,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11556,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11557,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11558,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11559,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,2,negative
+REV11560,Ultra Blender 3000,"Terrible quality, broke after two days of normal use.",1,negative
+REV11561,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11562,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11563,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11564,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11565,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11566,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11567,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11568,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11569,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11570,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11571,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11572,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11573,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11574,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11575,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11576,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11577,Ultra Blender 3000,"Decent quality, but shipping took way too long.",3,neutral
+REV11578,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11579,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11580,Noise Cancel Headphones,Average. It is functional but features are quite basic.,3,neutral
+REV11581,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11582,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11583,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11584,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV11585,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11586,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11587,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11588,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV11589,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11590,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11591,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11592,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11593,Smart Watch Y,Worst customer service ever. Product does not work.,2,negative
+REV11594,Noise Cancel Headphones,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11595,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11596,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11597,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11598,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11599,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11600,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV11601,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11602,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11603,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11604,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11605,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11606,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11607,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11608,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11609,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11610,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11611,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11612,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11613,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11614,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11615,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11616,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11617,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11618,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11619,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11620,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11621,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11622,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11623,Smart Watch Y,"Terrible quality, broke after two days of normal use.",1,negative
+REV11624,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11625,Ergonomic Chair Z,Do not waste your money on this. Waste of time.,2,negative
+REV11626,Smart Watch Y,Average product. Not bad but not great either.,3,neutral
+REV11627,Laptop X1,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11628,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11629,Smart Watch Y,Average. It is functional but features are quite basic.,3,neutral
+REV11630,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11631,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11632,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11633,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11634,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11635,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11636,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11637,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,2,negative
+REV11638,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11639,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11640,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11641,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV11642,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV11643,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11644,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11645,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11646,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11647,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11648,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11649,Noise Cancel Headphones,Worst customer service ever. Product does not work.,2,negative
+REV11650,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11651,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11652,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11653,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11654,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11655,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11656,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11657,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11658,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11659,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11660,Ergonomic Chair Z,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11661,Laptop X1,Very high quality. Highly recommended to everyone.,5,positive
+REV11662,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11663,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV11664,Smart Watch Y,"Decent quality, but shipping took way too long.",3,neutral
+REV11665,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11666,Ergonomic Chair Z,Do not waste your money on this. Waste of time.,1,negative
+REV11667,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11668,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11669,Ultra Blender 3000,Do not waste your money on this. Waste of time.,2,negative
+REV11670,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11671,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11672,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11673,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11674,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11675,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11676,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11677,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11678,Ergonomic Chair Z,"Decent quality, but shipping took way too long.",3,neutral
+REV11679,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11680,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11681,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11682,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11683,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11684,Ergonomic Chair Z,Average product. Not bad but not great either.,3,neutral
+REV11685,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11686,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11687,Ultra Blender 3000,Do not waste your money on this. Waste of time.,1,negative
+REV11688,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11689,Ergonomic Chair Z,"Decent quality, but shipping took way too long.",3,neutral
+REV11690,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11691,Laptop X1,Worst customer service ever. Product does not work.,2,negative
+REV11692,Smart Watch Y,Do not waste your money on this. Waste of time.,2,negative
+REV11693,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11694,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11695,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11696,Smart Watch Y,Worst customer service ever. Product does not work.,2,negative
+REV11697,Laptop X1,"Decent quality, but shipping took way too long.",3,neutral
+REV11698,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11699,Noise Cancel Headphones,"It is okay, nothing special but does the job.",3,neutral
+REV11700,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11701,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11702,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11703,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11704,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11705,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11706,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11707,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11708,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV11709,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11710,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11711,Laptop X1,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11712,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11713,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11714,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11715,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11716,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11717,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11718,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11719,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11720,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11721,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV11722,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11723,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11724,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11725,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11726,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV11727,Ergonomic Chair Z,Fair product for the price. Not complaining.,3,neutral
+REV11728,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11729,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11730,Noise Cancel Headphones,Average. It is functional but features are quite basic.,3,neutral
+REV11731,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11732,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11733,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11734,Ultra Blender 3000,Do not waste your money on this. Waste of time.,1,negative
+REV11735,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11736,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV11737,Smart Watch Y,Exceeded my expectations. Excellent customer service.,5,positive
+REV11738,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11739,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11740,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV11741,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11742,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11743,Ultra Blender 3000,"Terrible quality, broke after two days of normal use.",2,negative
+REV11744,Ergonomic Chair Z,Average. It is functional but features are quite basic.,3,neutral
+REV11745,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11746,Laptop X1,Fair product for the price. Not complaining.,3,neutral
+REV11747,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11748,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11749,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV11750,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11751,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11752,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11753,Noise Cancel Headphones,"Terrible quality, broke after two days of normal use.",2,negative
+REV11754,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11755,Laptop X1,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11756,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11757,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11758,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11759,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11760,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11761,Ultra Blender 3000,Worst customer service ever. Product does not work.,2,negative
+REV11762,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11763,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11764,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11765,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11766,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11767,Ergonomic Chair Z,Fair product for the price. Not complaining.,3,neutral
+REV11768,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11769,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11770,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11771,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11772,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11773,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11774,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11775,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11776,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11777,Ergonomic Chair Z,"Decent quality, but shipping took way too long.",3,neutral
+REV11778,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11779,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11780,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11781,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11782,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11783,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11784,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11785,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11786,Noise Cancel Headphones,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11787,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11788,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11789,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11790,Noise Cancel Headphones,Fair product for the price. Not complaining.,3,neutral
+REV11791,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11792,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11793,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11794,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11795,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11796,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11797,Ergonomic Chair Z,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11798,Smart Watch Y,Average. It is functional but features are quite basic.,3,neutral
+REV11799,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11800,Noise Cancel Headphones,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11801,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11802,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11803,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11804,Ultra Blender 3000,"Terrible quality, broke after two days of normal use.",1,negative
+REV11805,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11806,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11807,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,5,positive
+REV11808,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11809,Ultra Blender 3000,Average. It is functional but features are quite basic.,3,neutral
+REV11810,Smart Watch Y,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11811,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11812,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11813,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11814,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11815,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11816,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11817,Smart Watch Y,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11818,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11819,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11820,Laptop X1,"Decent quality, but shipping took way too long.",3,neutral
+REV11821,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11822,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11823,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11824,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11825,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11826,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11827,Ergonomic Chair Z,Average. It is functional but features are quite basic.,3,neutral
+REV11828,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11829,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11830,Ergonomic Chair Z,"Terrible quality, broke after two days of normal use.",2,negative
+REV11831,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11832,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11833,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11834,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11835,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11836,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,4,positive
+REV11837,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11838,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11839,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11840,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11841,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11842,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11843,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11844,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11845,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11846,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11847,Laptop X1,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11848,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11849,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11850,Smart Watch Y,Exceeded my expectations. Excellent customer service.,4,positive
+REV11851,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11852,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11853,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11854,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11855,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11856,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11857,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11858,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,1,negative
+REV11859,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11860,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11861,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11862,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11863,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11864,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11865,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11866,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,4,positive
+REV11867,Ultra Blender 3000,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11868,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11869,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11870,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11871,Smart Watch Y,Extremely slow shipping and the product doesn't work as advertised.,2,negative
+REV11872,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11873,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11874,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11875,Ergonomic Chair Z,Do not waste your money on this. Waste of time.,1,negative
+REV11876,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11877,Ultra Blender 3000,Very disappointed. It arrived damaged and missing parts.,1,negative
+REV11878,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11879,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11880,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11881,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11882,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11883,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11884,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11885,Smart Watch Y,Fair product for the price. Not complaining.,3,neutral
+REV11886,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11887,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11888,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11889,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11890,Ergonomic Chair Z,Very disappointed. It arrived damaged and missing parts.,2,negative
+REV11891,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11892,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11893,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11894,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11895,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11896,Laptop X1,Exceeded my expectations. Excellent customer service.,5,positive
+REV11897,Noise Cancel Headphones,Worst customer service ever. Product does not work.,2,negative
+REV11898,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11899,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11900,Smart Watch Y,Do not waste your money on this. Waste of time.,1,negative
+REV11901,Noise Cancel Headphones,Horrible experience. The item was extremely cheap and fragile.,1,negative
+REV11902,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11903,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11904,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11905,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11906,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11907,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11908,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11909,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11910,Smart Watch Y,Very high quality. Highly recommended to everyone.,4,positive
+REV11911,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11912,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11913,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11914,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11915,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,4,positive
+REV11916,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11917,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11918,Laptop X1,Exceeded my expectations. Excellent customer service.,4,positive
+REV11919,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11920,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11921,Laptop X1,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11922,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11923,Noise Cancel Headphones,Do not waste your money on this. Waste of time.,1,negative
+REV11924,Noise Cancel Headphones,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11925,Laptop X1,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11926,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11927,Laptop X1,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11928,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11929,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11930,Noise Cancel Headphones,Average product. Not bad but not great either.,3,neutral
+REV11931,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11932,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11933,Laptop X1,"It is okay, nothing special but does the job.",3,neutral
+REV11934,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11935,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,4,positive
+REV11936,Laptop X1,Do not waste your money on this. Waste of time.,2,negative
+REV11937,Laptop X1,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11938,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11939,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11940,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11941,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11942,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11943,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11944,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,5,positive
+REV11945,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11946,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11947,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11948,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11949,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11950,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11951,Ergonomic Chair Z,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11952,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11953,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11954,Ergonomic Chair Z,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11955,Ergonomic Chair Z,Very high quality. Highly recommended to everyone.,5,positive
+REV11956,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",4,positive
+REV11957,Ergonomic Chair Z,Exceeded my expectations. Excellent customer service.,4,positive
+REV11958,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11959,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11960,Smart Watch Y,Do not waste your money on this. Waste of time.,1,negative
+REV11961,Noise Cancel Headphones,Very high quality. Highly recommended to everyone.,5,positive
+REV11962,Smart Watch Y,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11963,Ultra Blender 3000,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11964,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11965,Ultra Blender 3000,Do not waste your money on this. Waste of time.,1,negative
+REV11966,Laptop X1,Very high quality. Highly recommended to everyone.,4,positive
+REV11967,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11968,Laptop X1,Average product. Not bad but not great either.,3,neutral
+REV11969,Laptop X1,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11970,Ultra Blender 3000,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11971,Laptop X1,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11972,Ultra Blender 3000,Very high quality. Highly recommended to everyone.,4,positive
+REV11973,Smart Watch Y,"Terrible quality, broke after two days of normal use.",1,negative
+REV11974,Ultra Blender 3000,Exceeded my expectations. Excellent customer service.,5,positive
+REV11975,Laptop X1,"Terrible quality, broke after two days of normal use.",2,negative
+REV11976,Ultra Blender 3000,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11977,Ultra Blender 3000,Horrible experience. The item was extremely cheap and fragile.,2,negative
+REV11978,Noise Cancel Headphones,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11979,Smart Watch Y,Very high quality. Highly recommended to everyone.,5,positive
+REV11980,Ultra Blender 3000,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11981,Laptop X1,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11982,Ergonomic Chair Z,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11983,Smart Watch Y,Best purchase I have made in a long time. Will buy again.,4,positive
+REV11984,Smart Watch Y,Worst customer service ever. Product does not work.,2,negative
+REV11985,Laptop X1,Worst customer service ever. Product does not work.,1,negative
+REV11986,Laptop X1,Average. It is functional but features are quite basic.,3,neutral
+REV11987,Laptop X1,Best purchase I have made in a long time. Will buy again.,5,positive
+REV11988,Noise Cancel Headphones,Worst customer service ever. Product does not work.,2,negative
+REV11989,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",5,positive
+REV11990,Noise Cancel Headphones,Exceeded my expectations. Excellent customer service.,5,positive
+REV11991,Ultra Blender 3000,"It is okay, nothing special but does the job.",3,neutral
+REV11992,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11993,Smart Watch Y,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11994,Noise Cancel Headphones,I absolutely love this product! Works perfectly and looks great.,5,positive
+REV11995,Noise Cancel Headphones,"Amazing features, very easy to use. 5 stars!",4,positive
+REV11996,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive
+REV11997,Ergonomic Chair Z,Satisfactory performance. It works but has some minor issues.,3,neutral
+REV11998,Smart Watch Y,I absolutely love this product! Works perfectly and looks great.,4,positive
+REV11999,Ergonomic Chair Z,"Great product, worth every penny. Quick delivery as well.",5,positive

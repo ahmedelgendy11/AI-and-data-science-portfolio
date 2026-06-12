@@ -1,0 +1,11 @@
+{
+  "// ملاحظة": "غيّر المسار لو الـ env عندك في مكان تاني (Ctrl+Shift+P → Python: Select Interpreter)",
+  "python.defaultInterpreterPath": "C:\\Users\\DELL\\miniconda3\\envs\\dsportfolio\\python.exe",
+  "jupyter.notebookFileRoot": "${fileDirname}",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true,
+    "**/mlruns": true,
+    "**/mlartifacts": true
+  }
+}
