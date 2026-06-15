@@ -3,7 +3,7 @@
 import json, os
 
 # مصدر واحد لرابط الريبو — غيّره هنا لو اتغيّر اسم/حساب الريبو، وأعد توليد/حقن النوتبوكات.
-REPO_URL = "https://github.com/Ahmedelgendyyy/data-science-portfolio"
+REPO_URL = "https://github.com/ahmedelgendy11/AI-and-data-science-portfolio"
 SETUP_SENTINEL = "إعداد تلقائي — Colab"   # علامة لمنع تكرار حقن خلية الإعداد
 
 
