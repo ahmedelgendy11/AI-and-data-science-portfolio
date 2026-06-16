@@ -3,7 +3,7 @@
 > منهج عملي كامل بالعربي + بورتفوليو مشاريع جاهزة للتشغيل على **Colab · Kaggle · VS Code**.
 > A hands-on Arabic Data Science / ML curriculum and a portfolio of runnable projects.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![MLflow](https://img.shields.io/badge/MLflow-tracking-0194E2) ![status](https://img.shields.io/badge/projects-15%20done-success)
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![MLflow](https://img.shields.io/badge/MLflow-tracking-0194E2) ![status](https://img.shields.io/badge/projects-18%20done-success)
 
 كل مشروع له **نسختان**: `*_exercise.ipynb` (فيه TODOs تحلّها) و `*_solution.ipynb` (الحل الكامل المتحقَّق منه) + `README.md`.
 
@@ -41,6 +41,7 @@ conda env create -f environment.yml      # أو: pip install -r requirements.txt
 |---|---|---|---|
 | A1 | لوحة أداء مبيعات (Sales Dashboard) | SQL · KPIs · Plotly · Streamlit | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/data_analysis/a1_sales_dashboard/a1_sales_dashboard_solution.ipynb) |
 | A2 | تحليل اختبار A/B | Power · z-test · Bootstrap · Bayesian | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/data_analysis/a2_ab_testing/a2_ab_testing_solution.ipynb) |
+| A3 | تقسيم العملاء وتحليل RFM | RFM · KMeans · PCA · Segmentation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/data_analysis/a3_rfm_segmentation/a3_rfm_segmentation_solution.ipynb) |
 
 ### 🅱️ تعلّم الآلة (Machine Learning)
 | # | المشروع | المهارات | التشغيل |
@@ -51,6 +52,8 @@ conda env create -f environment.yml      # أو: pip install -r requirements.txt
 | B4 | كشف الاحتيال | Isolation Forest · PR-AUC · P@k | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/ml/b4_fraud_detection/b4_fraud_detection_solution.ipynb) |
 | B5 | مخاطر أمراض القلب | Classification · ROC-AUC · Leakage | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/ml/b5_heart_disease/b5_heart_disease_solution.ipynb) |
 | B6 | تقسيم العملاء | KMeans · DBSCAN · PCA | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/ml/b6_customer_segmentation/b6_customer_segmentation_solution.ipynb) |
+| B8 | التنبؤ بالطلب (Demand Forecast) | TS Features · XGBoost · Temporal CV | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/ml/b8_demand_forecast/b8_demand_forecast_solution.ipynb) |
+| B9 | التنبؤ بتكلفة التأمين | Regression · XGBoost · Feature Interactions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedelgendy11/AI-and-data-science-portfolio/blob/main/portfolio/ml/b9_insurance_cost/b9_insurance_cost_solution.ipynb) |
 
 ### 🅲 علم البيانات (Data Science)
 | # | المشروع | المهارات | التشغيل |

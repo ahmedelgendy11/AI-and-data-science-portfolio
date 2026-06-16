@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 | A1 | **لوحة أداء مبيعات التجارة الإلكترونية** (Sales Performance Dashboard) | ecommerce_transactions | SQL · Pandas · KPIs · Plotly · Streamlit | ✅ |
 | A2 | **تحليل اختبار A/B لتجربة تحويل** (A/B Test Analysis) | يُولَّد | Power analysis · z-test · Bootstrap · Bayesian | ✅ |
-| A3 | **تقسيم العملاء وتحليل RFM** (Customer Segmentation & RFM) | ecommerce + segmentation | RFM · KMeans · Business profiling | ⬜ |
+| A3 | **تقسيم العملاء وتحليل RFM** (Customer Segmentation & RFM) | ecommerce + segmentation | RFM · KMeans · Business profiling | ✅ |
 | A4 | **تحليل القمع والاحتفاظ بالعملاء** (Funnel & Cohort Retention) | ecommerce_transactions | Cohort analysis · Retention curves · Funnel | ⬜ |
 | A5 | **تقرير تحليل وتنبؤ المبيعات للمخزون** (Sales & Inventory Report) | excel_sales | Time aggregation · Trends · Reporting | ⬜ |
 | A6 | **تحليل استنزاف الموظفين (HR Analytics)** | يُولَّد | EDA · Driver analysis · Dashboards | ⬜ |
@@ -32,8 +32,8 @@
 | B5 | **مصنّف مخاطر أمراض القلب** | health_risk | Classification · ROC-AUC · Interpretability · Leakage | ✅ |
 | B6 | **تقسيم العملاء غير الموجَّه** | segmentation | KMeans · DBSCAN · PCA · Silhouette | ✅ |
 | B7 | **نظام توصية (Recommender System)** | يُولَّد | Collaborative Filtering · Matrix Factorization | ⬜ |
-| B8 | **التنبؤ بالطلب باستخدام ML** | energy_consumption | TS features · XGBoost · Backtesting | ⬜ |
-| B9 | **التنبؤ بتكلفة التأمين** | يُولَّد | Regression · GLM · Feature interactions | ⬜ |
+| B8 | **التنبؤ بالطلب باستخدام ML** | energy_consumption | TS features · XGBoost · Backtesting | ✅ |
+| B9 | **التنبؤ بتكلفة التأمين** | يُولَّد | Regression · GLM · Feature interactions | ✅ |
 | B10 | **التنبؤ باستنزاف الموظفين + MLflow** | يُولَّد | Full pipeline · **Experiment Tracking (MLflow)** | ⬜ |
 
 **MLOps مدمج في:** B1 (FastAPI serving + monitoring) و B10 (MLflow tracking + model registry).
